@@ -4,3 +4,13 @@ div.rara{
 li{
     text-align: center;
 }
+nav{
+    display: inline;
+    
+}
+h1{
+    
+    display: inline;;
+    color: chartreuse;
+    font-style: oblique;
+}
