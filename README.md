@@ -4,7 +4,7 @@
 ### DESCRIPTION
 > This is a Pizza website which allows people to order online and get their deliveries
 ## Link
-
+https://shizukane.github.io/pizza-project/.
 #### LICENSE
 
 ## MIT License
