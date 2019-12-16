@@ -13,4 +13,9 @@ h1{
     display: inline;;
     color: brown;
     font-style: oblique;
+    text-align: center;
+}
+p{
+    font-style: oblique;
+    color: brown;
 }
